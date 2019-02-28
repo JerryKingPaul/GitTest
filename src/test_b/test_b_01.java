@@ -1,5 +1,5 @@
 package test_b;
 
-public class test_b_01 {
+class test_b_01 {
 
 }
